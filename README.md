@@ -15,6 +15,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 ### Installation
 
 1. Copy `Eldritch` file from this repo to `~/.config/ghostty/themes/Eldritch`
+2. Add `theme = Eldritch` to your `~/.config/ghostty/config`
 
 <!-- If you want to provide install from source options, you can use the following template: -->
 <!-- ### Installation From Source -->
